@@ -1,6 +1,6 @@
 # Pricing-and-Replication-Strategy
 
-## The file "Report.pdf" gives a description of the whole project.
+## The file "Report.pdf" gives a detailed description of the project.
 
 <p>In this project we developed a program to “price” options using three
 different methods: one using the Black-Scholes-Merton (BSM) model, the
