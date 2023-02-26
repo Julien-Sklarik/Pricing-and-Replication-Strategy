@@ -43,5 +43,3 @@ All pricing commands are child classes of the Command class. The parent class Co
 #### Container
 
 As the list of parameters can vary from one function to another, we decided to store them in a container. All parameters are character strings (entered by the user on the keyboard) in the application. As parameters can be numbers or dates, transformations take place in the code when needed. The type of container that we chose allows the parameters to be stored in a dictionary.
-
-This project is licensed under the MIT License 
